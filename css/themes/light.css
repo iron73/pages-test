@@ -1,0 +1,14 @@
+/* Theme */
+
+main {
+	background: hsla(0,0%,98%,1);
+	color: hsla(240,2%,20%,1);
+}
+
+.icons-social a {
+	color: hsla(240,2%,20%,1);
+}
+
+.icons-social a svg path{
+	fill: hsla(240,2%,20%,1);
+}
